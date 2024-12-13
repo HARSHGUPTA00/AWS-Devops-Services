@@ -1,4 +1,4 @@
-![alt text](38-3-e1715636964776-1.png)
+![image](https://github.com/HARSHGUPTA00/AWS-Devops-Services/blob/assets/Assets/Cloud_computing.png)
 ## What is a cloud ?
 The cloud is a global network of remote servers that store and process data for other devices and computers.
 
